@@ -1,9 +1,9 @@
-# Python Hand-on Solve 200 Problems
+# Python Hand-on Solve 200 problems
 
 
 ## Summary
 
-- **Problems Source** <a href="https://www.udemy.com/course/python-handon/" target="_blank">Udemy Course - Python Hand-on Solve 200 Problems</a>
+- **Problems Source** <a href="https://www.udby.com/course/python-handon/" target="_blank">Udemy Course - Python Hand-on Solve 200 Problems</a>
 
 - **Category-wise Overview**
 
@@ -13,13 +13,13 @@
         <tr>
             <th>Category</th>
             <th>Sub-Category</th>
-            <th>No. of Problems</th>
-            <th>Solved Problems</th>
+            <th>No. of problems</th>
+            <th>Solved problems</th>
         </tr>
     </thead>
     <tbody align="center">
         <tr>
-            <td rowspan=11>Fundamental</td>
+            <td rowspan=11><a href="https://github.com/ybg345/python-solved-200-problems#fundamental">Fundamental</a></td>
             <tr>
                 <td>Basic</td>
                 <td>3</td>
@@ -72,7 +72,7 @@
             <td>6</td>
         </tr>
         <tr>
-            <td rowspan=5>Algorithms</td>
+            <td rowspan=5><a href="https://github.com/ybg345/python-solved-200-problems#algorithms">Algorithms</a></td>
             <tr>
                 <td>Array</td>
                 <td>6</td>
@@ -95,7 +95,7 @@
             <td>5</td>
         </tr>
         <tr>
-            <td rowspan=3>Data Analysis</td>
+            <td rowspan=3><a href="https://github.com/ybg345/python-solved-200-problems#data-analysis">Data Analysis</a></td>
             <tr>
                 <td>Numpy</td>
                 <td>100</td>
@@ -137,16 +137,16 @@
             <td>Input Age</td>
         </tr>
         <tr>
-            <td>3</td>
-            <td><em>Calculate with Input<em></td>
+            <td><b>3</b></td>
+            <td>Calculate with Input</td>
         </tr>
         <tr>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>4</td>
-            <td><em>2 dimensional array</em></td>
+            <td><b>4</b></td>
+            <td>2 dimensional array</td>
             <td rowspan=12>Condition and Loop</td>
             <td rowspan=12> <a href="https://github.com/ybg345/python-solved-200-problems/blob/master/solutions_by_category/02_condition%20and%20loop/02_conditions_and_loop_problems_solns.ipynb" target="_blank">Go to Solutions</a> </td>
         </tr>
@@ -171,20 +171,20 @@
             <td>count even odd</td>
         </tr>
         <tr>
-            <td>10</td>
-            <td><em>fibonacci generator</em></td>
+            <td><b>10</b></td>
+            <td>fibonacci generator</td>
         </tr>
         <tr>
             <td>11</td>
             <td>find number</td>
         </tr>
         <tr>
-            <td>12</td>
-            <td><em>guess game</em></td>
+            <td><b>12</b></td>
+            <td>guess game</td>
         </tr>
         <tr>
-            <td>13</td>
-            <td><em>password validation</em></td>
+            <td><b>13</b></td>
+            <td>password validation</td>
         </tr>
         <tr>
             <td>14</td>
@@ -192,7 +192,7 @@
         </tr>
         <tr>
             <td>15</td>
-            <td>vowel and consonent</td>
+            <td>vowel and consonant</td>
         </tr>
          <tr>
             <td></td>
@@ -205,8 +205,8 @@
             <td rowspan=10> <a href="" target="_blank">Go to Solutions</a> </td>
         </tr>
         <tr>
-            <td>17</td>
-            <td><em>check a list contains sublist</em></td>
+            <td><b>17</b></td>
+            <td>check a list contains sublist></td>
         </tr>
         <tr>
             <td>18</td>
@@ -221,20 +221,20 @@
             <td>find max</td>
         </tr>
         <tr>
-            <td>21</td>
-            <td><em>frequency of elements</em></td>
+            <td><b>21</b></td>
+            <td>frequency of elements</td>
         </tr>
         <tr>
             <td>22</td>
-            <td><em>permutations</em></td>
+            <td>permutations</td>
         </tr>
         <tr>
-            <td>23</td>
-            <td><em>remove duplicates</em></td>
+            <td><b>23</b></td>
+            <td>remove duplicates</td>
         </tr>
         <tr>
-            <td>24</td>
-            <td><em>second smallest</em></td>
+            <td><b>24</b></td>
+            <td>second smallest</td>
         </tr>
         <tr>
             <td>25</td>
@@ -245,14 +245,14 @@
             <td></td>
         </tr>
         <tr>
-            <td>26</td>
-            <td><em>Ceaser Encryption</em></td>
+            <td><b>26</b></td>
+            <td>Ceaser Encryption</td>
             <td rowspan=10>String</td>
             <td rowspan=10> <a href="https://github.com/ybg345/python-solved-200-problems/blob/master/solutions_by_category/04_string/04_string.ipynb" target="_blank">Go to Solutions</a> </td>
         </tr>
         <tr>
-            <td>27</td>
-            <td><em>Character Exchange</em></td>
+            <td><b>27</b></td>
+            <td>Character Exchange</td>
         </tr>
         <tr>
             <td>28</td>
@@ -279,12 +279,12 @@
             <td>String Length</td>
         </tr>
         <tr>
-            <td>34</td>
-            <td><em>Unique Word</em></td>
+            <td><b>34</b></td>
+            <td>Unique Word</td>
         </tr>
         <tr>
-            <td>35</td>
-            <td><em>Word Count</em></td>
+            <td><b>35</b></td>
+            <td>Word Count</td>
         </tr>
         <tr>
             <td></td>
@@ -297,16 +297,16 @@
             <td rowspan=6> <a href="https://github.com/ybg345/python-solved-200-problems/blob/master/solutions_by_category/05_dictionary/05_dictionary.ipynb" target="_blank">Go to Solutions</a> </td>
         </tr>
         <tr>
-            <td>37</td>
-            <td><em>concatenate</em></td>
+            <td><b>37</b></td>
+            <td>concatenate</td>
         </tr>
         <tr>
             <td>38</td>
             <td>iterate over dictionary</td>
         </tr>
         <tr>
-            <td>39</td>
-            <td><em>sort</em></td>
+            <td><b>39</b></td>
+            <td>sort</td>
         </tr>
         <tr>
             <td>40</td>
@@ -343,8 +343,8 @@
             <td></td>
         </tr>
         <tr>
-            <td>46</td>
-            <td><em>check parentheses  </em></td>
+            <td><b>46</b></td>
+            <td>check parentheses</td>
             <td rowspan=8>Class</td>
             <td rowspan=8> <a href="https://github.com/ybg345/python-solved-200-problems/blob/master/solutions_by_category/07_class/07_class.ipynb" target="_blank">Go to Solutions</a> </td>
         </tr>
@@ -353,12 +353,12 @@
             <td>circle</td>
         </tr>
         <tr>
-            <td>48</td>
-            <td><em>convert to int </em></td>
+            <td><b>48</b></td>
+            <td>convert to int</td>
         </tr>
         <tr>
-            <td>49</td>
-            <td><em>convert to roman</em></td>
+            <td><b>49</b></td>
+            <td>convert to roman</td>
         </tr>
         <tr>
             <td>50</td>
@@ -366,49 +366,49 @@
         </tr>
         <tr>
             <td>51</td>
-            <td>rectange</td>
+            <td>rectangle</td>
         </tr>
         <tr>
-            <td>52</td>
-            <td><em>revert word</em></td>
+            <td><b>52</b></td>
+            <td>revert word</td>
         </tr>
         <tr>
-            <td>53</td>
-            <td><em>sum zero</em></td>
+            <td><b>53</b></td>
+            <td>sum zero</td>
         </tr>
         <tr>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>54</td>
-            <td><em>binary to decimal</em></td>
+            <td><b>54</b></td>
+            <td>binary to decimal</td>
             <td rowspan=5>Math</td>
             <td rowspan=5> <a href="https://github.com/ybg345/python-solved-200-problems/blob/master/solutions_by_category/08_math/08_math.ipynb" target="_blank">Go to Solutions</a> </td>
         </tr>
         <tr>
-            <td>55</td>
-            <td><em>flip a coin</em></td>
+            <td><b>55</b></td>
+            <td>flip a coin</td>
         </tr>
         <tr>
             <td>56</td>
             <td>random</td>
         </tr>
         <tr>
-            <td>57</td>
-            <td><em>round up</em></td>
+            <td><b>57</b></td>
+            <td>round up</td>
         </tr>
         <tr>
-            <td>58</td>
-            <td><em>standard deviation</em></td>
+            <td><b>58</b></td>
+            <td>standard deviation</td>
         </tr>
         <tr>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>59</td>
-            <td><em>convert</em></td>
+            <td><b>59</b></td>
+            <td>convert</td>
             <td rowspan=5>Datetime</td>
             <td rowspan=5> <a href="https://github.com/ybg345/python-solved-200-problems/blob/master/solutions_by_category/09_datetime/09_datetime.ipynb" target="_blank">Go to Solutions</a> </td>
         </tr>
@@ -417,16 +417,16 @@
             <td>current time</td>
         </tr>
         <tr>
-            <td>61</td>
-            <td><em>date time format</em></td>
+            <td><b>61</b></td>
+            <td>date time format</td>
         </tr>
         <tr>
             <td>62</td>
             <td>millisecond</td>
         </tr>
         <tr>
-            <td>63</td>
-            <td><em>subtract days</em></td>
+            <td><b>63</b></td>
+            <td>subtract days</td>
         </tr>
         <tr>
             <td></td>
@@ -434,7 +434,7 @@
         </tr>
         <tr>
             <td>64</td>
-            <td>all word contain 5 chracters</td>
+            <td>all word contain 5 characters</td>
             <td rowspan=8>Regex</td>
             <td rowspan=8> <a href="https://github.com/ybg345/python-solved-200-problems/blob/master/solutions_by_category/10_regex/10_regex.ipynb" target="_blank">Go to Solutions</a> </td>
         </tr>
@@ -443,20 +443,20 @@
             <td>check string</td>
         </tr>
         <tr>
-            <td>66</td>
-            <td><em>find substring</em></td>
+            <td><b>66</b></td>
+            <td>find substring</td>
         </tr>
         <tr>
-            <td>67</td>
-            <td><em>find url</em></td>
+            <td><b>67</b></td>
+            <td>find url</td>
         </tr>
         <tr>
             <td>68</td>
             <td>keep alphanumeric only</td>
         </tr>
         <tr>
-            <td>69</td>
-            <td><em>remove parenthesis</em></td>
+            <td><b>69</b></td>
+            <td>remove parenthesis</td>
         </tr>
         <tr>
             <td>70</td>
@@ -486,14 +486,14 @@
     </thead>
     <tbody align="center">
         <tr>
-            <td>1</td>
-            <td><em>array longest non repeat<em></td>
+            <td><b>1</b></td>
+            <td>array longest non repeat</td>
             <td rowspan=6>Array</td>
             <td rowspan=6> <a href="https://github.com/ybg345/python-solved-200-problems/blob/master/solutions_by_category/11_array/11_array.ipynb" target="_blank">Go to Solutions</a> </td>
         </tr>
         <tr>
-            <td>2</td>
-            <td><em>array merge intervals<em></td>
+            <td><b>2</b></td>
+            <td>array merge intervals</td>
         </tr>
         <tr>
             <td>3</td>
@@ -504,8 +504,8 @@
             <td>array rotate</td>
         </tr>
         <tr>
-            <td>5</td>
-            <td><em>array summary range<em></td>
+            <td><b>5</b></td>
+            <td>array summary range</td>
         </tr>
         <tr>
             <td>6</td>
@@ -516,30 +516,30 @@
             <td></td>
         </tr>
         <tr>
-            <td>7</td>
-            <td>buble sort implement</td>
+            <td><b>7</b></td>
+            <td>bubble sort implement</td>
             <td rowspan=6>Sort</td>
             <td rowspan=6> <a href="https://github.com/ybg345/python-solved-200-problems/blob/master/solutions_by_category/12_sort/12_sort.ipynb" target="_blank">Go to Solutions</a> </td>
         </tr>
         <tr>
-            <td>8</td>
-            <td><em>insertion sort implement</em></td>
+            <td><b>8</b></td>
+            <td>insertion sort implement</td>
         </tr>
         <tr>
-            <td>9</td>
-            <td><em>selection sort implement</em></td>
+            <td><b>9</b></td>
+            <td>selection sort implement</td>
         </tr>
         <tr>
-            <td>10</td>
-            <td><em>shell sort implement</em></td>
+            <td><b>10</b></td>
+            <td>shell sort implement</td>
         </tr>
         <tr>
-            <td>11</td>
-            <td><em>merge sort implement</em></td>
+            <td><b>11</b></td>
+            <td>merge sort implement</td>
         </tr>
         <tr>
-            <td>12</td>
-            <td><em>quick sort implement</em></td>
+            <td><b>12</b></td>
+            <td>quick sort implement</td>
         </tr>
          <tr>
             <td></td>
@@ -567,19 +567,19 @@
         </tr>
         <tr>
             <td>16</td>
-            <td>fibonaci</td>
+            <td>fibonacci</td>
         </tr>
         <tr>
             <td>17</td>
-            <td>fractorial</td>
+            <td>factorial</td>
         </tr>
         <tr>
-            <td>18</td>
-            <td><em>greatest gcd</em></td>
+            <td><b>18</b></td>
+            <td>greatest gcd</td>
         </tr>
         <tr>
-            <td>19</td>
-            <td><em>sum of list</em></td>
+            <td><b>19</b></td>
+            <td>sum of list</td>
         </tr>
         <tr>
             <td></td>
@@ -593,21 +593,6 @@
 
 
 
-### Data Science
+### Data Analysis
 
 ##### Yet to Solve
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
